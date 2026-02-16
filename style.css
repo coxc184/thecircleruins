@@ -86,4 +86,42 @@ font-size: 100px;
 
 .after{
 font-family: "Oswald";
-font-size: 5
+font-size: 50px;
+position: relative;top: -300px; right: -1230px;
+width: 10px;
+color: black;
+text-decoration: wavy;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+* {
+  cursor: url('https://cdn.cursors-4u.net/css-previews/cute-purple-flying-butterfly-189f207d-css.webp') 0 0, auto !important;
+}
+
+
+#butter{
+width: 10px;
+height: 30px;
+font-size: 28px;
+position: relative;top: -780px;left: 230px;
+
+}
+
+#river{
+
+
+
+
+
+}
